@@ -5,3 +5,4 @@ button.addEventListener ('click', function(e){
         prompt("good");
     }
 })
+button 
